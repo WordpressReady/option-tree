@@ -48,6 +48,10 @@ Sorry, but yes. OptionTree requires PHP5 to work correctly (so does WP 3.2+).
 
 == Changelog ==
 
+= 1.1.8.1 wpr branch: added macro capability and shortcode processing into textblocks. this feature is used to
+display HTML code which uses macro values. 
+See example on: http://wordpressready.com/2012/03/how-to-make-an-option-page-in-your-wp-theme-in-5-minutes/
+
 = 1.1.8.1 =
 * Removed get_option_tree() in the WordPress admin area due to theme conflicts.
 * Removed demo files in the assets folder at the request of WordPress
